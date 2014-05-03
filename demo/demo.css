@@ -1,0 +1,17 @@
+#gallery  {
+
+}
+
+#gallery li {
+	list-style: none;
+	float: left;	
+	padding: 5px;
+	margin: 0 10px 10px 0;
+	border: 1px solid #aaa;
+}
+
+#gallery li img {
+	width: 100px;
+	height: auto;
+	display: block;
+}
